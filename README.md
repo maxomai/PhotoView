@@ -1,3 +1,12 @@
+# EXIFMeme
+This project is intended to leverage PhotoView with the ability to then add EXIF information directly into the photo. This is necessary so that emergency teams can use SSTV to send photos via radio without losing valuable information that would normally be embedded in the image as EXIF metadata.
+
+Once you fork, download to local with:
+
+git clone https://github.com/maxomai/PhotoView.git
+
+Below is information on the PhotoView project on which this is based.
+
 # PhotoView
 PhotoView aims to help produce an easily usable implementation of a zooming Android ImageView.
 
